@@ -1,0 +1,22 @@
+{
+    "gitbook": ">=3.0.0",
+    "title": "Eloquent JavaScript",
+    "description": "Eloquent JS - fr",
+    "language": "fr",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": ["js-console", "github"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/js-appsmaker/javascript.info_fr.git"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
+}

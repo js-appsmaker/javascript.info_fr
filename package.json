@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "gitbook build",
+        "start": "gitbook serve"
+    },
+    "author": "js-appsmaker",
+    "license": "MIT",
+    "engines": {
+        "gitbook": ">=3.2.3"
+    },
+    "dependencies": {
+        "gitbook-cli": "2.3.2",
+        "gitbook-plugin-js-console": "^1.4.2"
+    }
+}
