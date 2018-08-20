@@ -6,7 +6,7 @@
     "structure": {
         "readme": "README.md"
     },
-    "plugins": ["js-console", "github"],
+    "plugins": ["js-console", "github", "multipart"],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/js-appsmaker/javascript.info_fr.git"
