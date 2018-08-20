@@ -1,8 +1,6 @@
 # SOMMAIRE
 
----
-
-## PARTIE I - LE LANGAGE JAVASCRIPT
+## [PARTIE I - LE LANGAGE JAVASCRIPT](part-1.md)
 
   #### [1. INTRODUCTION](1.intro.md)
   
