@@ -1,6 +1,4 @@
-# Table of contents
-
-* [Introduction](README.md)
+# SOMMAIRE
 
 ## PARTIE I - LE LANGAGE JAVASCRIPT
 
